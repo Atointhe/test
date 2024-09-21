@@ -1,0 +1,7 @@
+{
+    "db_type": "PostgreSQL",
+    "db_url": "localhost",
+    "db_port": "1234",
+    "db_user": "myuser",
+    "db_password": "mypassword"
+}
